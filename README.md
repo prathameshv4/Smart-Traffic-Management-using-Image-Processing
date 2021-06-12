@@ -16,5 +16,5 @@ Here we will analyze the images captured through camera for each lanes and by im
 
 # How to run the project on your system?
 -Just clone the project on your system.
--Run .m file using Matlab R2021 version or later.
+-Run ui.m file using Matlab R2021 version or later.
 -This will open the required GUI.
